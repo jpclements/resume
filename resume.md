@@ -98,7 +98,7 @@ US MobileSoft is a startup in the task management space. With US Mobilesoft, Mr.
 
 One Call Concepts, Inc. (OCC) provides end-to-end one call management services in multiple states throughout the United States. At OCC Mr. Clements was responsible for architecting, developing and maintaining the National Ticket Management Systems (NTMS) – a database driven web-based application. He also designed and implemented an enterprise data warehouse and reporting system. He designed and implemented a one-call ticket submission process using SQL Server Integration Services and SOAP based Web Service. Mr. Clements also designed and implemented a multi-platform (Windows, Mac OSX, Linux) desktop based ticket management system using C++/Qt, SQLite, and REST. He designed and built a multi-platform (Windows, Mac OSX, Linux) ticket synchronization system using C++ and the Boost C++ libraries. Mr. Clements also designed and implemented a web-based application for call center operator testing and evaluation using .Net, C# and SQL Server. He implemented a one-call ticket conversion process using Python. At OCC, Mr. Clements used Subversion for source control management and Jira for issue and project management.
 
-**Partner, LCR Group LLC, Millersville, MD* _2003 – 2010_
+**Partner, LCR Group LLC, Millersville, MD** _2003 – 2010_
 
 LCR Group was a software and services company that serviced Top 100 law firms and financial services companies. LCR Group provided packaged and custom software and services.
 
