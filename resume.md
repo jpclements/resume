@@ -110,11 +110,11 @@ As a senior consultant to clients, Mr. Clements was responsible for architecting
 
 DecisionBuilders is a services company providing custom development services in the data warehousing and business intelligence market. Mr. Clements provided senior consultant services to DecisionBuilders clients and technical direction to DecisionBuilders. As a senior consultant, Mr. Clements lead a team in the analysis, design and development of a web-based financial data collection application using Java, ColdFusion and Oracle. Mr. Clements was also part of a team that developed an enterprise data warehousing and reporting solution based on BusinessObjects and Oracle. At the request of a client, Mr. Clements also designed and development a custom BusinessObjects report to Excel add-on using Visual Basic and Visual Basic for Applications.
 
-**Software Engineer, Select* Associates, Inc., Timonium, MD** _1999 – 2002_
+**Software Engineer, Select\* Associates, Inc., Timonium, MD** _1999 – 2002_
 
 Select* Associates is a software and services company. They provide custom and packaged software and services to Top 100 law firms and financial services companies. At Select* Associates, Mr. Clements was responsible for architecting, developing and maintaining an enterprise data warehouse built from multiple source systems. The data warehouse was built using DB2, custom shell and Perl scripts, SQL and stored procedures using the Bottom-Up Data Warehouse Design Methodology. Mr. Clements was also part of a team designing and implementing an enterprise accounts receivable collections system. The system was developed using Java, J2EE, Informix, and VB6. Mr. Clements also used Perl to design and develop a packaged web based n-tier enterprise decision support system.
 
-**Infantryman, United States Marine Corps* _1992 - 1996_
+**Infantryman, United States Marine Corps** _1992 - 1996_
 
 
 
